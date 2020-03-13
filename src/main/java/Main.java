@@ -20,7 +20,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String API_KEY = "d01fb321aa86de72d5d295c47e1082b6";
+        String API_KEY = "{YOUR API KEY}";
         String LOCATION = "Katowice";
         String URLString = "http://api.openweathermap.org/data/2.5/weather?q="+LOCATION+"&appid="+API_KEY;
 
